@@ -1,5 +1,5 @@
 context:
-  version: "0.6.4"
+  version: "0.7.0"
 
 package:
   name: convco
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/convco/convco/archive/refs/tags/v${{ version }}.tar.gz
-  sha256: 907a7db94f0f49c2ee547c0aebfff50500a9d886a7e575bc0288d6937101972b
+  sha256: 3a9b33e41561f80eaa9252673a1ee1b4857743e2ff7b33079d0b616c772fa981
 
 build:
   number: 0
